@@ -36,16 +36,16 @@ const Contact = () => {
 
     emailjs
       .send(
-        'service_70qom3u',
-        'template_0e6d53f',
+        'service_h4we9c9',
+        'template_ldagmw8',
         {
           from_name: form.name,
           to_name: "Md Ismail Hossain",
           from_email: form.email,
-          to_email: "mdisamil07.hossain@gmail.com",
+          to_email: "mdismail07.hossain@gmail.com",
           message: form.message,
         },
-        'Q-absgLCT0Diyo08a'
+        'MIzX1j6vVgppUvJV_'
       )
       .then(
         () => {
