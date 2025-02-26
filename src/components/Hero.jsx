@@ -47,7 +47,7 @@ const Hero = () => {
                   <FaGithub size={30} />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/md-ismail07"
+                  href="https://www.linkedin.com/in/md-ismail07/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gray-800 p-4 rounded-xl text-white hover:bg-gray-700 transition"
@@ -62,7 +62,7 @@ const Hero = () => {
                   <FaEnvelope size={30} />
                 </a>
                 <a
-                  href="https://drive.google.com/file/d/1TaPtLvzizjeKauW-oUB3bGYLwuoLSmJQ/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1RADY3mhvukANLXtDd1h_ppQEs4pal6vH/view?usp=sharing"
                   target="_blank"
                   className="bg-gray-800 p-4 rounded-xl text-white hover:bg-gray-700 transition flex items-center gap-2"
                 >
